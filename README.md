@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img alt="coding_img" width="400" align="right" src="https://img.freepik.com/premium-vector/icons-set-with-laptop-computer-languages_87771-1029.jpg?w=740">
 
-- 🌱 I’m currently learning **React, React Native, Nodejs**
+- 🌱 I’m currently learning ```React, React Native, Nodejs```
 
 - 👨‍💻 All of my projects are available at [https://jsfiddle.net/u/som002/fiddles](https://jsfiddle.net/u/som002/fiddles)
 
