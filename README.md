@@ -21,7 +21,7 @@ ___
 ___
 
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/somyan-pradhan <a href="https://www.linkedin.com/in/somyan-pradhan" target="_blank"><img width="20" alt="linkdin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a></h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/somyan-pradhan <a href="https://www.linkedin.com/in/somyan-pradhan" target="_blank" rel="noreferrer"><img width="20" alt="linkdin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a></h3>
 
 <p align="left">
 </p>
