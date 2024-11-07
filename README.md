@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somyan </h1>
-<img alt="coding_img" width="8%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
-<img alt="coding_img" width="8%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<img alt="coding_img" width="10%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<img alt="coding_img" width="10%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
 <p align="left">
 &nbsp;</p>
 <h3 align="center">A WebDeveloper and Programmer</h3>
