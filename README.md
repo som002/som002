@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Somyan Pradhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img alt="coding_img" width="200" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
-<img alt="coding_img" width="200" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<h3 align="center" >A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning ```React, React Native, Nodejs```
 
-- 👨‍💻 All of my projects are available at [https://jsfiddle.net/u/som002/fiddles](https://jsfiddle.net/u/som002/fiddles)
+<img alt="coding_img" width="30%" align="center" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/Spell%20Scroll%20Design_1.png">
+
+
+<img alt="coding_img" width="17%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<img alt="coding_img" width="17%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+
+- 🌱 I’m currently learning <code><b>React, React Native, Nodejs</b></code>
+
+- 👨‍💻 All of my projects are available at **[https://jsfiddle.net/u/som002/fiddles](https://jsfiddle.net/u/som002/fiddles)**
 
 - 💬 Ask me about **Javascript, Scss, HTML**
 
 - 📫 How to reach me **somyanpradhan@gmail.com**
 
-- 📄 Know about my experiences [https://ivory-maitilde-44.tiiny.site](https://ivory-maitilde-44.tiiny.site)
+- 📄 Know about my experiences **[https://ivory-maitilde-44.tiiny.site](https://ivory-maitilde-44.tiiny.site)**
 
 <p align="left">
 &nbsp;</p>
