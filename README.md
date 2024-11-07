@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Somyan Pradhan</h1>
-<h3 align="center" >A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Somyan </h1>
+<img alt="coding_img" width="6%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<img alt="coding_img" width="6%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<h3 align="center">A WebDeveloper and Programmer</h3>
+
+<p align="left">
+&nbsp;</p>
+<img alt="coding_img" width="35%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/Pixelated%20Spell%20Scroll_1.png">
+<!-- <p align="left">
+&nbsp;</p> -->
 
 
-<img alt="coding_img" width="30%" align="center" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/Spell%20Scroll%20Design_1.png">
-
-
-<img alt="coding_img" width="17%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
-<img alt="coding_img" width="17%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
 
 - 🌱 I’m currently learning <code><b>React, React Native, Nodejs</b></code>
 
