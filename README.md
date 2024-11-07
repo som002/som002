@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Somyan </h1>
-<img alt="coding_img" width="10%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
-<img alt="coding_img" width="10%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
-<p align="left">
-&nbsp;</p>
-<h3 align="center">A WebDeveloper and Programmer</h3>
+<h1 align="center">Hi 👋, I'm <code>Somyan</code> </h1>
+<img alt="coding_img" width="12%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<p align="left">&nbsp;</p><h3 align="left">A WebDeveloper and Programmer</h3>
 
 <p align="left">
 &nbsp;</p>
-<img alt="coding_img" width="35%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/Pixelated%20Spell%20Scroll_1.png">
-<!-- <p align="left">
-&nbsp;</p> -->
+<p align="left">
+&nbsp;</p>
+<p align="left">
+&nbsp;</p>
 
+<img alt="scroll" width="35%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/Pixelated%20Spell%20Scroll_1.png">
 
 
 - 🌱 I’m currently learning <code><b>React, React_Native, Nodejs</b></code>
