@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Somyan </h1>
-<img alt="coding_img" width="6%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
-<img alt="coding_img" width="6%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<img alt="coding_img" width="8%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<img alt="coding_img" width="8%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
+<p align="left">
+&nbsp;</p>
 <h3 align="center">A WebDeveloper and Programmer</h3>
 
 <p align="left">
@@ -11,7 +13,7 @@
 
 
 
-- 🌱 I’m currently learning <code><b>React, React Native, Nodejs</b></code>
+- 🌱 I’m currently learning <code><b>React, React_Native, Nodejs</b></code>
 
 - 👨‍💻 All of my projects are available at **[https://jsfiddle.net/u/som002/fiddles](https://jsfiddle.net/u/som002/fiddles)**
 
