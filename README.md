@@ -8,7 +8,7 @@
 
 <img alt="scroll" width="35%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/Pixelated%20Spell%20Scroll_1.png">
 
-
+___
 - 🌱 I’m currently learning <code><b>React, React_Native, Nodejs</b></code>
 
 - 👨‍💻 All of my projects are available at **[https://jsfiddle.net/u/som002/fiddles](https://jsfiddle.net/u/som002/fiddles)**
@@ -18,7 +18,7 @@
 - 📫 How to reach me **somyanpradhan@gmail.com**
 
 - 📄 Know about my experiences **[https://ivory-maitilde-44.tiiny.site](https://ivory-maitilde-44.tiiny.site)**
-
+___
 <p align="left">
 &nbsp;</p>
 <h3 align="left">Connect with me: https://www.linkedin.com/in/somyan-pradhan <a href="https://www.linkedin.com/in/somyan-pradhan" target="_blank"><img width="20" alt="linkdin" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"></a></h3>
