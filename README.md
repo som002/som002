@@ -15,7 +15,7 @@ ___
 
 - 💬 Ask me about **Javascript, Scss, HTML**
 
-- 📫 How to reach me **somyanpradhan@gmail.com**
+- 📫 How to reach me **somyanpradhan@gmail.com**,**somyan.pradhan@philips.com**
 
 - 📄 Know about my experiences **[https://ivory-maitilde-44.tiiny.site](https://ivory-maitilde-44.tiiny.site)**
 ___
