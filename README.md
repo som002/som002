@@ -9,7 +9,7 @@
 <img alt="scroll" width="35%" align="right" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/Pixelated%20Spell%20Scroll_1.png">
 
 ___
-- 🌱 I’m currently learning <code><b>React, React_Native, Nodejs</b></code>
+- 🌱 I’m currently learning <code><b>ROS, React, React_Native, Nodejs</b></code>
 
 - 👨‍💻 All of my projects are available at **[https://jsfiddle.net/u/som002/fiddles](https://jsfiddle.net/u/som002/fiddles)**
 
