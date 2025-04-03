@@ -17,7 +17,7 @@ ___
 
 - 📫 How to reach me **somyanpradhan@gmail.com**, **somyan.pradhan@philips.com**
 
-- 📄 Know about my experiences **[https://ivory-maitilde-44.tiiny.site](https://ivory-maitilde-44.tiiny.site)**
+- 📄 Know about my experiences **[https://github.com/som002/som002/blob/main/SomyanPradhanResume.pdf](https://github.com/som002/som002/blob/main/SomyanPradhanResume.pdf)**
 ___
 
 
