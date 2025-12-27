@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <code>Somyan</code> </h1>
+<h1 align="center">Hi 👋, I'm <code>S</code> </h1>
 <img alt="coding_img" width="12%" align="left" src="https://raw.githubusercontent.com/som002/som002/refs/heads/main/animated_gif_1.gif">
 <p align="left">&nbsp;</p><p align="left">&nbsp;</p><h3 align="left">A WebDeveloper and Programmer</h3>
 
