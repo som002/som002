@@ -14,10 +14,6 @@ ___
 - 👨‍💻 All of my projects are available at **[https://jsfiddle.net/u/som002/fiddles](https://jsfiddle.net/u/som002/fiddles)**
 
 - 💬 Ask me about **Javascript, Scss, HTML**
-
-- 📫 How to reach me **somyanpradhan@gmail.com**, **somyan.pradhan@philips.com**
-
-- 📄 Know about my experiences **[https://github.com/som002/som002/blob/main/SomyanPradhanResume.pdf](https://github.com/som002/som002/blob/main/SomyanPradhanResume.pdf)**
 ___
 
 
