@@ -34,8 +34,6 @@
 
 ### 💬 Ask Me About  
 - JavaScript  
-- SCSS  
-- HTML
 - NodeJs
 - System Design
 - Cloud
